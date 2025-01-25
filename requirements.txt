@@ -1,0 +1,7 @@
+python-dotenv
+openai
+supabase
+logfire
+pydantic-ai
+crawl4ai
+httpx
